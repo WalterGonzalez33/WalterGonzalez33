@@ -8,13 +8,13 @@
   </ul>
 </div>
 
-<!--- banner -->
+
+<!--- snake -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="./resources/banner.webp" alt="snake" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/WalterGonzalez33">
+    <img src="./resources/grid-snake.svg" alt="snake" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -25,25 +25,25 @@
 
 <!--Intro start-->
 <div align="center">
-    <p width="50%" style="width: 70%; font-weight: 700; color: #F5F5DC; text-align: center;">
+    <p width="50%" style="width: 60%; font-weight: 700; color: #F5F5DC; text-align: center;">
 Soy Desarrollador Web Full-Stack especializado en el stack MERN (MongoDB, Express.js, React, Node.js). Me apasiona crear aplicaciones web dinámicas e intuitivas, enfocándome en brindar experiencias de usuario excepcionales. En mis proyectos y colaboraciones, combino creatividad y eficiencia para resolver problemas y construir soluciones innovadoras.
     </p>
 </div>
 <!--Intro end-->
 
-<!--- snake -->
+<!--- banner -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="./resources/grid-snake.svg" alt="snake" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/WalterGonzalez33">
+    <img src="./resources/banner.webp" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 40%; margin-top:40px;">
   </a>
 </div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center" border="none">
+<table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="50%" align="center" border="0">
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=WalterGonzalez33&theme=onedark&show_icons=true&count_private=true&hide_border=true" />
   <br></br>
@@ -51,7 +51,7 @@ Soy Desarrollador Web Full-Stack especializado en el stack MERN (MongoDB, Expres
 </td>
 
 <td width="50%" align="center">
-  <img  align="center"  src="  https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGonzalez33&hide_progress=false&&layout=compact&hide_border=true&theme=onedark"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterGonzalez33&hide_progress=false&&layout=compact&hide_border=true&theme=onedark" />
   </td>
 </tr>
 </table>
