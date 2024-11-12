@@ -11,7 +11,7 @@
 <!--- banner -->
 <div align="center">
   <a href="https://github.com/WalterGonzalez33">
-    <img src="./resources/banner.webp" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 50%; margin-top:40px;">
+    <img src="./resources/banner.webp" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 45%; margin-top:40px;">
   </a>
 </div>
 
@@ -24,12 +24,15 @@
 
 <!--Intro start-->
 <div align="center">
-    <p width="50%" style="width: 60%; font-weight: 700; color: #F5F5DC; text-align: center;">
+    <h3 width="50%" style="width: 60%; font-weight: 700; color: #F5F5DC; text-align: center;">
 Soy Desarrollador Web Full-Stack especializado en el stack MERN (MongoDB, Express.js, React, Node.js). Me apasiona crear aplicaciones web dinámicas e intuitivas, enfocándome en brindar experiencias de usuario excepcionales. En mis proyectos y colaboraciones, combino creatividad y eficiencia para resolver problemas y construir soluciones innovadoras.
-    </p>
+    </h3>
 </div>
 <!--Intro end-->
 
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0214.gif" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 90%; margin-top:40px;">
+</div>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
