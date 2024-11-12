@@ -8,11 +8,10 @@
   </ul>
 </div>
 
-
-<!--- snake -->
+<!--- banner -->
 <div align="center">
   <a href="https://github.com/WalterGonzalez33">
-    <img src="./resources/grid-snake.svg" alt="snake" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+    <img src="./resources/banner.webp" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 50%; margin-top:40px;">
   </a>
 </div>
 
@@ -30,13 +29,6 @@ Soy Desarrollador Web Full-Stack especializado en el stack MERN (MongoDB, Expres
     </p>
 </div>
 <!--Intro end-->
-
-<!--- banner -->
-<div align="center">
-  <a href="https://github.com/WalterGonzalez33">
-    <img src="./resources/banner.webp" alt="screem" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2); width: 40%; margin-top:40px;">
-  </a>
-</div>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -110,6 +102,12 @@ Soy Desarrollador Web Full-Stack especializado en el stack MERN (MongoDB, Expres
   
 </div>
 
+<!--- snake -->
+<div align="center">
+  <a href="https://github.com/WalterGonzalez33">
+    <img src="./resources/grid-snake.svg" alt="snake" style=" border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
